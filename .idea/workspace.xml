@@ -26,8 +26,8 @@
       <file leaf-file-name="LoginTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6812386" vertical-offset="0" max-vertical-offset="549">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.50455374" vertical-offset="29" max-vertical-offset="578">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -52,7 +52,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="252" />
+    <option name="x" value="578" />
+    <option name="y" value="76" />
     <option name="width" value="1400" />
     <option name="height" value="968" />
   </component>
@@ -331,7 +332,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="252" y="0" width="1400" height="968" extended-state="0" />
+    <frame x="578" y="76" width="1400" height="968" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -385,8 +386,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6812386" vertical-offset="0" max-vertical-offset="549">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.50455374" vertical-offset="29" max-vertical-offset="578">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />

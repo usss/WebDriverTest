@@ -17,6 +17,12 @@ public class LoginTest {
         passwordForm.sendKeys("unix1111");
         WebElement loginButton = driver.findElement(By.id("loginFormB2C:loginForm:loginButton"));
         loginButton.click();
-        driver.quit(); /* Объявляю это новой веткой! Не, хуйня, выход не нужон*/
+        WebElement sharedInternetLink = driver.findElement(By.className("nav-sharable-intenet"));
+        sharedInternetLink.click();
+        WebElement searchForm = driver.findElement(By.id("searchForm:sms"));
+        searchForm.sendKeys("9030331186");
+        WebElement searchButton = driver.findElement(By.cssSelector("type=\"submit\""));
+        searchButton.click();
+        driver.quit();
     }
 }
