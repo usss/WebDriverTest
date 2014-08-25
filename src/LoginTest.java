@@ -23,6 +23,9 @@ public class LoginTest {
         searchForm.sendKeys("9030331186");
         WebElement searchButton = driver.findElement(By.cssSelector("type=\"submit\""));
         searchButton.click();
-        driver.quit();/*Нет, Василий, закрывать браузер надо всегда*/
+        driver.quit();/*Нет, Василий, закрывать браузер надо всегда
+        Новая ветка
+        */
+
     }
 }
