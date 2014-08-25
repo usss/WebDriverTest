@@ -17,6 +17,6 @@ public class LoginTest {
         passwordForm.sendKeys("unix1111");
         WebElement loginButton = driver.findElement(By.id("loginFormB2C:loginForm:loginButton"));
         loginButton.click();
-        driver.quit();
+        /*driver.quit(); Не, хуйня, выход не нужон*/
     }
 }
